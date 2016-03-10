@@ -70,6 +70,10 @@ The data content covers APCs as paid for by our central budget for the Max Planc
 - [Max Delbrück Center for Molecular Medicine (MDC)](https://www.mdc-berlin.de/1161876/de/about_the_mdc/structure/administr
 ation/library)
 
+## Experimental: Austrian Science Fund (FWF)
+
+A data contribution from the [Austrian Science Funds (FWF)](http://fwf.ac.at) has been partially included (100 entries) for testing purposes.
+
 ## Dataset
 
 ```{r, echo=FALSE, cache = FALSE}
